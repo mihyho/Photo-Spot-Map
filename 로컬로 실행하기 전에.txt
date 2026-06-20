@@ -1,0 +1,5 @@
+로컬서버 터미널에서 따로 실행 필요
+
+npm run dev
+
+node server/server.js
